@@ -1,12 +1,15 @@
-# React + Vite
+# Just Donut 🍩
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Just Donut**, a delicious and visually appealing donut website featuring a home, menu, and about page. This project showcases a clean and modern design, perfect for donut lovers and businesses looking for inspiration.
 
-Currently, two official plugins are available:
+## 🎯 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🍩 **Home Page** – A welcoming landing page with eye-catching visuals.
+- 📜 **Menu Page** – Displays a variety of donuts.
+- ℹ️ **About Page** – Shares the story of Just Donut.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Frontend framework)
+- **Vite** (Fast build tool)
+- **Tailwind CSS** (Styling)
